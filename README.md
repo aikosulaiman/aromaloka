@@ -1,8 +1,6 @@
-
 # Aromaloka
 
 Aromaloka is an AI-powered perfume android application that provides personalized local (UMKM) perfume recommendations based on a user's scent preferences and user's perfume choices.
-
 
 ## Installation
 
